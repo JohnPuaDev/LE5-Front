@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\app\\models"
   ],
-  "SelectedNode": "\\C:\\Users\\Administrator\\Source\\Repos\\LE5-Front",
+  "SelectedNode": "\\frontend\\src\\app\\models",
   "PreviewInSolutionExplorer": false
 }
